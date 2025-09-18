@@ -12,8 +12,10 @@
 ### Результаты тестирования
 Тест 1
 ![Тест 1](https://github.com/niwotevoli/Applied-Programming/blob/main/lab1-task1-test1.png "Тест 1")
+____
 Тест 2
 ![Тест 2](https://github.com/niwotevoli/Applied-Programming/blob/main/lab1-task1-test2.png "Тест 2")
+____
 Тест 3
 ![Тест 3](https://github.com/niwotevoli/Applied-Programming/blob/main/lab1-task1-test3.png "Тест 3")
 ## Задание 2 - Конвертер единиц измерения расстояния
@@ -26,6 +28,7 @@
 ### Результаты тестирования
 Тест 1
 ![Тест 1](https://github.com/niwotevoli/Applied-Programming/blob/main/lab1-task2-test1.png "Тест 1")
+____
 Тест 2
 ![Тест 2](https://github.com/niwotevoli/Applied-Programming/blob/main/lab1-task2-test2.png "Тест 2")
 ## Задание 3 - Определение високосного года
@@ -38,7 +41,9 @@
 ### Результаты тестирования
 Тест 1
 ![Тест 1](https://github.com/niwotevoli/Applied-Programming/blob/main/lab1-task3-test1.png "Тест 1")
+____
 Тест 2
 ![Тест 2](https://github.com/niwotevoli/Applied-Programming/blob/main/lab1-task3-test2.png "Тест 2")
+____
 Тест 3
 ![Тест 3](https://github.com/niwotevoli/Applied-Programming/blob/main/lab1-task3-test3.png "Тест 3")
