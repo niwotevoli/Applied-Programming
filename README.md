@@ -8,7 +8,7 @@
 Язык программирования: C++.
 Среда разработки: Online compiler and debugger for c/c++ (https://www.onlinegdb.com).
 ### Инструкция по работе
-Файл lab1-tast1.cpp
+Файл [lab1-task1.cpp](https://github.com/niwotevoli/Applied-Programming/blob/main/lab1-task1.cpp)
 
 По запросу программы необходимо ввести три числа, которые могут быть как целыми, так и дробными. Далее программа выводит результат - площадь треугольника.
 ### Результаты тестирования
@@ -29,7 +29,7 @@ ____
 Язык программирования: C++.
 Среда разработки: Online compiler and debugger for c/c++ (https://www.onlinegdb.com).
 ### Инструкция по работе
-Файл lab1-tast1.cpp
+Файл [lab1-task2.cpp](https://github.com/niwotevoli/Applied-Programming/blob/main/lab1-task2.cpp)
 
 По запросу программы необходимо выбрать исходную единицу измерения, а затем целевую единицу измерения. Программа запрашивает значение для конвертации, далее программа конвертирует исходную единицу измерения в целевую.
 ### Результаты тестирования
@@ -46,7 +46,7 @@ ____
 Язык программирования: C++.
 Среда разработки: Online compiler and debugger for c/c++ (https://www.onlinegdb.com).
 ### Инструкция по работе
-Файл lab1-tast1.cpp
+Файл [lab1-task3.cpp](https://github.com/niwotevoli/Applied-Programming/blob/main/lab1-task3.cpp)
 
 По запросу программы необходимо ввести число - год для определия високосности. Далее программа выводит результат - является ли данный год високосным.
 ### Результаты тестирования
